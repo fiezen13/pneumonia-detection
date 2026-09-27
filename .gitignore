@@ -21,3 +21,6 @@ env/
 .DS_Store
 .vscode/
 .idea/
+
+# Local build brief (keep on disk, not on GitHub)
+PROJECT_SPEC.md
