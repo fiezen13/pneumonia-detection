@@ -1,0 +1,92 @@
+{
+  "split": "val",
+  "n_val": 784,
+  "candidates": {
+    "resnet18_finetune": {
+      "counts": {
+        "TP": 568,
+        "TN": 198,
+        "FP": 3,
+        "FN": 15
+      },
+      "confusion_matrix": [
+        [
+          198,
+          3
+        ],
+        [
+          15,
+          568
+        ]
+      ],
+      "fp_confidence": {
+        "count": 3,
+        "prob_pneumonia_mean": 0.89967014392217,
+        "prob_pneumonia_min": 0.8383415937423706,
+        "prob_pneumonia_max": 0.9419997930526733,
+        "pred_confidence_mean": 0.89967014392217,
+        "pred_confidence_min": 0.8383415937423706,
+        "pred_confidence_max": 0.9419997930526733
+      },
+      "fn_confidence": {
+        "count": 15,
+        "prob_pneumonia_mean": 0.33398427615563075,
+        "prob_pneumonia_min": 0.057093799114227295,
+        "prob_pneumonia_max": 0.49086645245552063,
+        "pred_confidence_mean": 0.6660157238443692,
+        "pred_confidence_min": 0.5091335475444794,
+        "pred_confidence_max": 0.9429062008857727
+      },
+      "artifacts": {
+        "summary": "/home/fiores/Documents/hien-selflearning/pneumonia-detection/experiments/error_analysis/resnet18_finetune/summary.json",
+        "fp_json": "/home/fiores/Documents/hien-selflearning/pneumonia-detection/experiments/error_analysis/resnet18_finetune/false_positives.json",
+        "fn_json": "/home/fiores/Documents/hien-selflearning/pneumonia-detection/experiments/error_analysis/resnet18_finetune/false_negatives.json",
+        "fp_grid": "/home/fiores/Documents/hien-selflearning/pneumonia-detection/reports/figures/error_analysis/resnet18_finetune/fp_grid.png",
+        "fn_grid": "/home/fiores/Documents/hien-selflearning/pneumonia-detection/reports/figures/error_analysis/resnet18_finetune/fn_grid.png"
+      }
+    },
+    "resnet18_finetune_weighted": {
+      "counts": {
+        "TP": 573,
+        "TN": 196,
+        "FP": 5,
+        "FN": 10
+      },
+      "confusion_matrix": [
+        [
+          196,
+          5
+        ],
+        [
+          10,
+          573
+        ]
+      ],
+      "fp_confidence": {
+        "count": 5,
+        "prob_pneumonia_mean": 0.8289036273956298,
+        "prob_pneumonia_min": 0.642085611820221,
+        "prob_pneumonia_max": 0.9446911215782166,
+        "pred_confidence_mean": 0.8289036273956298,
+        "pred_confidence_min": 0.642085611820221,
+        "pred_confidence_max": 0.9446911215782166
+      },
+      "fn_confidence": {
+        "count": 10,
+        "prob_pneumonia_mean": 0.17667886409908534,
+        "prob_pneumonia_min": 0.013404825702309608,
+        "prob_pneumonia_max": 0.42747989296913147,
+        "pred_confidence_mean": 0.8233211359009147,
+        "pred_confidence_min": 0.5725201070308685,
+        "pred_confidence_max": 0.9865951742976904
+      },
+      "artifacts": {
+        "summary": "/home/fiores/Documents/hien-selflearning/pneumonia-detection/experiments/error_analysis/resnet18_finetune_weighted/summary.json",
+        "fp_json": "/home/fiores/Documents/hien-selflearning/pneumonia-detection/experiments/error_analysis/resnet18_finetune_weighted/false_positives.json",
+        "fn_json": "/home/fiores/Documents/hien-selflearning/pneumonia-detection/experiments/error_analysis/resnet18_finetune_weighted/false_negatives.json",
+        "fp_grid": "/home/fiores/Documents/hien-selflearning/pneumonia-detection/reports/figures/error_analysis/resnet18_finetune_weighted/fp_grid.png",
+        "fn_grid": "/home/fiores/Documents/hien-selflearning/pneumonia-detection/reports/figures/error_analysis/resnet18_finetune_weighted/fn_grid.png"
+      }
+    }
+  }
+}

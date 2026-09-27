@@ -1,0 +1,4994 @@
+[
+  {
+    "rel_path": "test/NORMAL/IM-0001-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.0037654642947018147,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0003-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.009755976498126984,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0005-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.010026725009083748,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0006-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.5725044012069702,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0007-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.011290201917290688,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0009-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.0006669364520348608,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0010-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.034520529210567474,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0011-0001-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.024900130927562714,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0011-0001-0002.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.5522254109382629,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0011-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.007366773672401905,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0013-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.0106031633913517,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0015-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.8440333604812622,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0016-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.1819978654384613,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0017-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.05111430957913399,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0019-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9800934195518494,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0021-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.1147279143333435,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0022-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999947547912598,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0023-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.011149547062814236,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0025-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.00048193856491707265,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0027-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.006418684031814337,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0028-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.02142050303518772,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0029-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.21925361454486847,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0030-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.09865013509988785,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0031-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.026679934933781624,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0033-0001-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.04541126266121864,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0033-0001-0002.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.005343236029148102,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0033-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.10297601670026779,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0035-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.02331124246120453,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0036-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.022094417363405228,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0037-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.15535365045070648,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0039-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.12923595309257507,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0041-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.013111629523336887,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0043-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.03020484372973442,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0045-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.0017139894189313054,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0046-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.12122895568609238,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0049-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.004511664155870676,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0050-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.00045152989332564175,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0059-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.0024111715611070395,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0061-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.004961211699992418,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0063-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.00031445143395103514,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0065-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.6710010766983032,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0067-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.00027925672475248575,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0069-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.002188092330470681,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0070-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 5.3466537792701274e-05,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0071-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9254565834999084,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0073-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9991538524627686,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0075-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.8106717467308044,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0077-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.2929307222366333,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0079-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.746319591999054,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0081-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.019147558137774467,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0083-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.005677986890077591,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0084-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.030256658792495728,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0085-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9994913339614868,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0086-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.603164553642273,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0087-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.2506696879863739,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0089-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.00038507484714500606,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0091-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9880914688110352,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0093-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.17900791764259338,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0095-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.005238699726760387,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0097-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.05552654340863228,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0099-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.0018535084091126919,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0101-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9451448917388916,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0102-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.99016273021698,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0103-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 5.180612060939893e-05,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0105-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.00102666683960706,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0107-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.0013296992983669043,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0109-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.17362375557422638,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0110-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.8763202428817749,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/IM-0111-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.06265176832675934,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0007-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.09549358487129211,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0012-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.007524456363171339,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0013-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.028307294473052025,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0019-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.8001193404197693,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0023-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.0020161333959549665,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0027-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.08304707705974579,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0028-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.35568949580192566,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0029-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.00895802304148674,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0030-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.07124657183885574,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0033-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.00017760063929017633,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0035-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.017677785828709602,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0041-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.2033759355545044,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0045-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.0035360322799533606,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0051-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.005664649419486523,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0052-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.10150253027677536,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0058-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.03214111551642418,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0059-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.14959315955638885,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0060-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.0133086321875453,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0066-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.2463548183441162,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0072-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.2703314423561096,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0073-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.1084148958325386,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0079-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.0018323777476325631,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0081-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.09156891703605652,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0086-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.005611518397927284,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0092-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.0412614531815052,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0095-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.27985912561416626,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0096-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.27985912561416626,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0098-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.02405964396893978,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0102-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.34440597891807556,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0105-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.5377241373062134,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0107-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.39418110251426697,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0110-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.005192980635911226,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0111-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.520348310470581,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0112-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.021345624700188637,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0117-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.16032357513904572,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0120-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.24502557516098022,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0123-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.37884944677352905,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0129-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.012202302925288677,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0130-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.0022698682732880116,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0131-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.1235479861497879,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0132-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.27125510573387146,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0135-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.1702895313501358,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0139-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.019830718636512756,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0141-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.0022646733559668064,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0145-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.7693637609481812,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0146-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.026407796889543533,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0150-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.770348310470581,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0171-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.45292067527770996,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0173-0001-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.33169859647750854,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0173-0001-0002.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.33169859647750854,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0195-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9989902377128601,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0196-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9885643124580383,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0198-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999802112579346,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0199-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.3434523940086365,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0201-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9910780787467957,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0206-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9913522005081177,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0207-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.03273351863026619,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0210-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9997510313987732,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0213-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.4703553318977356,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0217-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.23999345302581787,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0219-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9969993829727173,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0221-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.5832322835922241,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0222-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.8724839091300964,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0229-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9828485250473022,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0232-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.999637246131897,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0233-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9998983144760132,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0237-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999940395355225,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0238-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9713071584701538,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0241-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.1022610142827034,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0246-0001-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.5870609879493713,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0246-0001-0002.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.5870609879493713,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0246-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.999729573726654,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0249-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.7716192007064819,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0251-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9921544194221497,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0252-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9991716146469116,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0256-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0259-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9954215884208679,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0267-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9927236437797546,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0271-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.5258243680000305,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0272-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.0013415092835202813,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0273-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.38764655590057373,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0274-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.00871476624161005,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0275-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.18408699333667755,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0276-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.2256927490234375,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0277-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9845430254936218,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0278-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.16528978943824768,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0279-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.0029595752712339163,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0280-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.6196751594543457,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0281-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.03344888612627983,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0282-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.4701416790485382,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0283-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.6218535304069519,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0285-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.997177243232727,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0286-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.0760633796453476,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0287-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.005606186110526323,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0288-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.8186017274856567,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0289-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.05129279941320419,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0290-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.09950758516788483,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0292-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.7518185377120972,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0294-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.05175917223095894,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0297-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.8842524886131287,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0300-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.01835736446082592,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0301-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.07394556701183319,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0302-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9551534056663513,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0303-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.8827390074729919,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0304-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.8558210134506226,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0305-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.10965493321418762,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0307-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.000986225320957601,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0309-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.004143677186220884,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0310-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.01017848402261734,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0311-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.05309083312749863,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0312-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.019632019102573395,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0313-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.038602057844400406,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0315-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9852313995361328,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0316-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.7723361849784851,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0317-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.0732041448354721,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0319-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.05410567671060562,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0321-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.0007456500898115337,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0322-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.6997790336608887,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0323-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.0018754436168819666,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0325-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.3294893205165863,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0326-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.009379586204886436,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0327-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.14680194854736328,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0328-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.02202819660305977,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0329-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.0009334671776741743,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0330-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9775621294975281,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0331-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.06847803294658661,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0332-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.296272337436676,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0333-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.035175591707229614,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0335-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9500946402549744,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0336-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.538359522819519,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0337-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.004120765719562769,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0338-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9239779114723206,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0339-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.04204908758401871,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0340-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.039566606283187866,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0341-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.016915278509259224,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0343-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.09045737981796265,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0345-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.703284740447998,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0346-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.005723387934267521,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0347-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.24972771108150482,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0348-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.01984301209449768,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0349-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9981332421302795,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0350-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.10554757714271545,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0351-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.022549008950591087,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0352-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.005836520344018936,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0353-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.06312336772680283,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0354-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.017814140766859055,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0357-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.6077301502227783,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0359-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.5356500744819641,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0360-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.8949592709541321,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0361-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9010456800460815,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0362-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.874725878238678,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0364-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9173191785812378,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0366-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.7808619737625122,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0368-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.5827961564064026,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0369-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.8040093779563904,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0370-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.0025772941298782825,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0372-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.05420682206749916,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0373-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9443755149841309,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0374-0001-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.0664421021938324,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0374-0001-0002.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9818459153175354,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0374-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.11419612169265747,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0376-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.5988144874572754,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0378-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.4712468981742859,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0380-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.062256112694740295,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/NORMAL/NORMAL2-IM-0381-0001.jpeg",
+    "true_label": "NORMAL",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.7461705207824707,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person100_bacteria_475.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9910872578620911,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person100_bacteria_477.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999921321868896,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person100_bacteria_478.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person100_bacteria_479.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999995231628418,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person100_bacteria_480.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999938011169434,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person100_bacteria_481.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person100_bacteria_482.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999821186065674,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person101_bacteria_483.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person101_bacteria_484.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999969005584717,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person101_bacteria_485.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9998113512992859,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person101_bacteria_486.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person102_bacteria_487.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9951626062393188,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person103_bacteria_488.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person103_bacteria_489.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999915361404419,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person103_bacteria_490.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9977599382400513,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person104_bacteria_491.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person104_bacteria_492.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person108_bacteria_504.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999970197677612,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person108_bacteria_506.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999624490737915,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person108_bacteria_507.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person108_bacteria_511.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.8823744654655457,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person109_bacteria_512.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999967813491821,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person109_bacteria_513.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person109_bacteria_517.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999998807907104,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person109_bacteria_519.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person109_bacteria_522.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999995231628418,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person109_bacteria_523.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person109_bacteria_526.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person109_bacteria_527.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person109_bacteria_528.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999998807907104,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person10_virus_35.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999191761016846,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person110_bacteria_531.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999957084655762,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person111_bacteria_533.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person111_bacteria_534.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999784231185913,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person111_bacteria_535.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999994039535522,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person111_bacteria_536.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999998807907104,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person111_bacteria_537.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999639987945557,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person112_bacteria_538.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person112_bacteria_539.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person113_bacteria_540.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person113_bacteria_541.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person113_bacteria_542.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person113_bacteria_543.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9997259974479675,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person114_bacteria_544.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999980926513672,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person114_bacteria_545.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999970197677612,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person114_bacteria_546.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999998807907104,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person117_bacteria_553.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person117_bacteria_556.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9998494386672974,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person117_bacteria_557.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9900132417678833,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person118_bacteria_559.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999896287918091,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person118_bacteria_560.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9980239868164062,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person119_bacteria_565.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person119_bacteria_566.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person119_bacteria_567.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.99982750415802,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person119_bacteria_568.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9917619228363037,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person11_virus_38.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9988129138946533,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person120_bacteria_570.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999997615814209,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person120_bacteria_571.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person120_bacteria_572.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person120_bacteria_573.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999940395355225,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person121_bacteria_575.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999793767929077,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person121_bacteria_576.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person121_bacteria_578.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999995231628418,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person121_bacteria_579.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999997615814209,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person121_bacteria_580.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9997454285621643,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person122_bacteria_581.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9998143315315247,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person122_bacteria_582.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person122_bacteria_583.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person122_bacteria_584.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.99996018409729,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person122_bacteria_585.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999998807907104,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person122_bacteria_586.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999656677246094,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person123_bacteria_587.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999963045120239,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person124_bacteria_589.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999860525131226,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person124_bacteria_590.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.99937504529953,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person124_bacteria_591.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999781847000122,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person124_bacteria_592.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9997480511665344,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person125_bacteria_594.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999914169311523,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person125_bacteria_595.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999982118606567,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person126_bacteria_598.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person126_bacteria_599.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999996423721313,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person126_bacteria_600.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person127_bacteria_602.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person127_bacteria_603.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person127_bacteria_604.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9003028869628906,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person128_bacteria_605.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person128_bacteria_606.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999998807907104,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person128_bacteria_607.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999998807907104,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person128_bacteria_608.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9966216087341309,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person130_bacteria_623.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.999612033367157,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person130_bacteria_625.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999970197677612,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person130_bacteria_626.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999972581863403,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person130_bacteria_627.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9983972907066345,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person130_bacteria_628.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999996423721313,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person131_bacteria_629.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person132_bacteria_632.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person133_bacteria_633.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999994039535522,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person133_bacteria_634.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person133_bacteria_635.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person133_bacteria_637.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person133_bacteria_638.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999916553497314,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person134_bacteria_640.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9129793047904968,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person134_bacteria_641.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999380111694336,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person134_bacteria_642.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9975311160087585,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person134_bacteria_643.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.999413013458252,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person134_bacteria_644.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.999413013458252,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person135_bacteria_646.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999902248382568,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person135_bacteria_647.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person136_bacteria_648.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999046325683594,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person136_bacteria_649.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999985694885254,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person136_bacteria_650.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person136_bacteria_652.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999970197677612,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person136_bacteria_654.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999200105667114,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person137_bacteria_655.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.999998927116394,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person138_bacteria_657.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9997512698173523,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person138_bacteria_658.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.5365395545959473,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person138_bacteria_659.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9993274211883545,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person139_bacteria_661.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person139_bacteria_662.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person139_bacteria_663.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999997615814209,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person139_bacteria_664.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person139_bacteria_665.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person139_bacteria_666.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.998917818069458,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person140_bacteria_667.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9998692274093628,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person140_bacteria_668.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.963677704334259,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person141_bacteria_670.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person141_bacteria_676.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person141_bacteria_677.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9425019025802612,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person141_bacteria_678.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person141_bacteria_681.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person142_bacteria_682.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.7950993180274963,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person142_bacteria_683.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999891519546509,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person142_bacteria_684.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999504089355469,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person143_bacteria_687.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9992700219154358,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person143_bacteria_688.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999932050704956,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person143_bacteria_689.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9995057582855225,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person144_bacteria_690.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9994695782661438,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person145_bacteria_696.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999998807907104,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person146_bacteria_700.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9998353719711304,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person146_bacteria_703.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999622106552124,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person146_bacteria_704.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999960660934448,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person147_bacteria_705.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999996423721313,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person147_bacteria_706.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person147_bacteria_707.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person147_bacteria_711.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999998807907104,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person149_bacteria_713.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9779462814331055,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person14_virus_44.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9975194334983826,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person150_bacteria_715.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person150_bacteria_716.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person150_bacteria_717.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9986371397972107,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person151_bacteria_718.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person152_bacteria_720.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999945163726807,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person152_bacteria_721.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999996423721313,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person152_bacteria_722.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999996423721313,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person152_bacteria_723.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999955892562866,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person152_bacteria_724.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.1907767802476883,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person153_bacteria_725.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999997615814209,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person153_bacteria_726.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.6142484545707703,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person154_bacteria_728.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.05500898137688637,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person155_bacteria_729.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999963045120239,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person155_bacteria_730.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9834858179092407,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person155_bacteria_731.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person157_bacteria_735.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person157_bacteria_739.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999996423721313,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person157_bacteria_740.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person158_bacteria_742.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person158_bacteria_743.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999998807907104,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person158_bacteria_744.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person158_bacteria_745.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9976721405982971,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person159_bacteria_746.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999998807907104,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person159_bacteria_747.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person15_virus_46.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9773997068405151,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1608_virus_2786.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9939512014389038,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1610_virus_2793.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9140395522117615,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1612_virus_2797.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999982118606567,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1612_virus_2798.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1613_virus_2799.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999995231628418,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1614_virus_2800.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9996354579925537,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1615_virus_2801.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9963001608848572,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1616_virus_2802.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.999981164932251,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1618_virus_2805.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999998807907104,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1619_virus_2806.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9995957016944885,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person161_bacteria_757.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9883248805999756,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person161_bacteria_759.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999964237213135,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person161_bacteria_762.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.983572781085968,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1620_virus_2807.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999665021896362,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1622_virus_2810.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999998807907104,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1623_virus_2813.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9600290656089783,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1625_virus_2817.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.999992847442627,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1626_virus_2818.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999804496765137,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1627_virus_2819.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1628_virus_2821.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9991082549095154,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1628_virus_2822.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1629_virus_2823.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999995231628418,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1631_virus_2826.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999994039535522,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1632_virus_2827.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1633_virus_2829.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999159574508667,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1634_virus_2830.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.970430850982666,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1635_virus_2831.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999673366546631,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1637_virus_2834.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999748468399048,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1640_virus_2839.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999972581863403,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1641_virus_2840.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9944792985916138,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1642_virus_2842.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9995197057723999,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1643_virus_2843.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.7245866656303406,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1644_virus_2844.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9892332553863525,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1645_virus_2845.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9993638396263123,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1647_virus_2848.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9966243505477905,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1649_virus_2850.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9997572302818298,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1650_virus_2852.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999539852142334,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1650_virus_2854.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999929666519165,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1651_virus_2855.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1653_virus_2858.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.999437153339386,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1653_virus_2859.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9941526055335999,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1655_virus_2861.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9900494813919067,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1656_virus_2862.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999898672103882,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1657_virus_2864.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9998732805252075,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1659_virus_2867.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9988943934440613,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1660_virus_2869.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.999997615814209,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1661_virus_2872.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1661_virus_2873.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1662_virus_2875.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999966621398926,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1663_virus_2876.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999852180480957,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1664_virus_2877.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9997455477714539,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1665_virus_2878.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.999994158744812,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1667_virus_2881.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999451637268066,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1668_virus_2882.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9996395111083984,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1669_virus_2884.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999926090240479,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1669_virus_2885.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1670_virus_2886.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999936819076538,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1671_virus_2887.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999678134918213,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1672_virus_2888.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9989222288131714,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1673_virus_2889.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999661445617676,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1674_virus_2890.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999165534973145,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1675_virus_2891.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999986886978149,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1676_virus_2892.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999802112579346,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1678_virus_2895.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999997615814209,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1679_virus_2896.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999895095825195,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1680_virus_2897.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9989858269691467,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1682_virus_2899.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999998807907104,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1685_virus_2903.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9708746075630188,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person16_virus_47.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.7451497316360474,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person171_bacteria_826.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person172_bacteria_827.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9974574446678162,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person172_bacteria_828.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9413844347000122,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person173_bacteria_829.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9958677291870117,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person173_bacteria_830.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person173_bacteria_831.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.8641614317893982,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person174_bacteria_832.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9997943043708801,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person175_bacteria_833.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9998633861541748,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person175_bacteria_834.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999946355819702,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person175_bacteria_835.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person17_virus_48.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9998034834861755,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person18_virus_49.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9984015822410583,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person19_virus_50.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9998000264167786,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1_virus_11.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1_virus_12.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999998807907104,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1_virus_13.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1_virus_6.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1_virus_7.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1_virus_8.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person1_virus_9.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person20_virus_51.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9980599284172058,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person21_virus_52.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9956961870193481,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person21_virus_53.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.5349844098091125,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person22_virus_54.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999991655349731,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person22_virus_55.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9981075525283813,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person23_virus_56.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999624490737915,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person24_virus_58.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9996867179870605,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person25_virus_59.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9994595646858215,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person26_virus_60.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999887943267822,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person28_virus_62.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.8506150841712952,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person28_virus_63.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9989820122718811,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person29_virus_64.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999641180038452,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person30_virus_69.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9990673661231995,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person31_virus_70.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999924898147583,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person32_virus_71.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9936017394065857,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person33_virus_72.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9995362758636475,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person34_virus_76.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999949932098389,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person35_virus_80.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9974269270896912,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person36_virus_81.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999959468841553,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person37_virus_82.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999380111694336,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person38_virus_83.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9996285438537598,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person38_virus_84.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person39_virus_85.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999219179153442,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person3_virus_15.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9997057318687439,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person3_virus_16.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999994039535522,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person3_virus_17.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9656273126602173,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person40_virus_87.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9988769888877869,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person41_virus_88.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9705027937889099,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person42_virus_89.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999810457229614,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person43_virus_92.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999889135360718,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person44_virus_93.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9754214882850647,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person44_virus_94.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.8915119767189026,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person45_virus_95.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9998014569282532,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person46_virus_96.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9991224408149719,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person47_virus_99.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person48_virus_100.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9821699857711792,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person49_virus_101.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9796093106269836,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person50_virus_102.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9996688365936279,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person51_virus_105.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999568462371826,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person52_virus_106.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9981740713119507,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person53_virus_107.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9997652173042297,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person53_virus_108.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.999987006187439,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person54_virus_109.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9910709857940674,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person55_virus_110.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9996144771575928,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person56_virus_112.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999079704284668,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person57_virus_113.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9990767240524292,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person59_virus_116.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9997130036354065,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person60_virus_117.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.5862196683883667,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person61_virus_118.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9998238682746887,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person62_virus_119.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9997178912162781,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person63_virus_121.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9997581839561462,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person64_virus_122.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9979026317596436,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person65_virus_123.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999744892120361,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person66_virus_125.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9997393488883972,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person67_virus_126.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9990371465682983,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person69_virus_129.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person70_virus_130.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.999716579914093,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person71_virus_131.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9964017868041992,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person71_virus_132.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999791383743286,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person72_virus_133.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999997615814209,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person74_virus_135.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999746084213257,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person75_virus_136.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999880790710449,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person76_virus_138.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9975135326385498,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person77_virus_139.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.999930739402771,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person78_bacteria_378.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person78_bacteria_380.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person78_bacteria_381.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999961853027344,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person78_bacteria_382.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.999998927116394,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person78_bacteria_384.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person78_bacteria_385.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999995231628418,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person78_bacteria_386.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person78_bacteria_387.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999990463256836,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person78_virus_140.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9968913197517395,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person79_virus_148.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9848098158836365,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person80_bacteria_389.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999994039535522,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person80_bacteria_390.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person80_bacteria_391.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999985694885254,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person80_bacteria_392.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.999995231628418,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person80_bacteria_393.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999675750732422,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person81_bacteria_395.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999998807907104,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person81_bacteria_396.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999997615814209,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person81_bacteria_397.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999954700469971,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person81_bacteria_398.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person82_bacteria_402.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999982118606567,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person82_bacteria_403.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999673366546631,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person82_bacteria_404.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999991655349731,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person82_bacteria_405.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999997615814209,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person83_bacteria_407.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9974663257598877,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person83_bacteria_409.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999983310699463,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person83_bacteria_410.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.999998927116394,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person83_bacteria_411.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.999916672706604,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person83_bacteria_412.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999998807907104,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person83_bacteria_414.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9992362260818481,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person85_bacteria_417.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999920129776001,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person85_bacteria_419.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999358654022217,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person85_bacteria_421.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999508857727051,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person85_bacteria_422.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person85_bacteria_423.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person85_bacteria_424.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999994039535522,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person86_bacteria_428.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.999994158744812,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person86_bacteria_429.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person87_bacteria_433.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person87_bacteria_434.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999370574951172,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person88_bacteria_437.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9997724890708923,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person88_bacteria_438.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999992847442627,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person88_bacteria_439.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "NORMAL",
+    "threshold_pred_label": "NORMAL",
+    "prob_pneumonia": 0.19165737926959991,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person89_bacteria_440.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9968607425689697,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person8_virus_27.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9930184483528137,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person8_virus_28.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9994598031044006,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person90_bacteria_442.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person90_bacteria_443.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999992847442627,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person91_bacteria_445.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999940395355225,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person91_bacteria_446.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person91_bacteria_447.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person91_bacteria_448.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person91_bacteria_449.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999982118606567,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person92_bacteria_450.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person92_bacteria_451.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person93_bacteria_453.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9975849390029907,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person93_bacteria_454.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.999872088432312,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person94_bacteria_456.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999970197677612,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person94_bacteria_457.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person94_bacteria_458.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999986886978149,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person95_bacteria_463.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9982960820198059,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person96_bacteria_464.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 1.0,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person96_bacteria_465.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.999977707862854,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person96_bacteria_466.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999998807907104,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person97_bacteria_468.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9999985694885254,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person99_bacteria_473.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9995943903923035,
+    "threshold": 0.3
+  },
+  {
+    "rel_path": "test/PNEUMONIA/person99_bacteria_474.jpeg",
+    "true_label": "PNEUMONIA",
+    "argmax_pred_label": "PNEUMONIA",
+    "threshold_pred_label": "PNEUMONIA",
+    "prob_pneumonia": 0.9932898879051208,
+    "threshold": 0.3
+  }
+]

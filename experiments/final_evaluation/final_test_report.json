@@ -1,0 +1,95 @@
+{
+  "evaluation_type": "final_test_once",
+  "split": "test",
+  "test_accessed": true,
+  "accessed_at_utc": "2026-09-26T08:16:43.068105+00:00",
+  "locked_from_manifest": "experiments/final_selection/final_selection_manifest.json",
+  "model": {
+    "run_name": "resnet18_finetune",
+    "checkpoint": "/home/fiores/Documents/hien-selflearning/pneumonia-detection/checkpoints/resnet18_finetune/resnet18_finetune_best.pt",
+    "checkpoint_relative": "checkpoints/resnet18_finetune/resnet18_finetune_best.pt",
+    "architecture": "resnet18",
+    "trainable_scope": "layer4_fc",
+    "checkpoint_epoch": 4
+  },
+  "threshold": {
+    "value": 0.3,
+    "probability_target": "PNEUMONIA",
+    "decision_rule": "Predict PNEUMONIA if P(PNEUMONIA) >= threshold, else NORMAL"
+  },
+  "sanity_checks": {
+    "n_test": 624,
+    "n_normal": 234,
+    "n_pneumonia": 390,
+    "checkpoint_exists": true,
+    "threshold_matches_lock": true,
+    "split": "test"
+  },
+  "metrics": {
+    "threshold": 0.3,
+    "accuracy": 0.8509615384615384,
+    "precision_macro": 0.8954562957258375,
+    "recall_macro": 0.8038461538461539,
+    "f1_macro": 0.8243195379124322,
+    "precision_pneumonia": 0.8113207547169812,
+    "recall_pneumonia": 0.9923076923076923,
+    "f1_pneumonia": 0.8927335640138409,
+    "precision_normal": 0.9795918367346939,
+    "recall_normal": 0.6153846153846154,
+    "f1_normal": 0.7559055118110236,
+    "false_negatives": 3,
+    "false_positives": 90,
+    "true_negatives": 144,
+    "true_positives": 387,
+    "confusion_matrix": [
+      [
+        144,
+        90
+      ],
+      [
+        3,
+        387
+      ]
+    ],
+    "roc_auc": 0.9669899189129959,
+    "pr_auc": 0.9754024684862116
+  },
+  "metrics_at_default_0_5_for_reference_only": {
+    "threshold": 0.5,
+    "accuracy": 0.8717948717948718,
+    "precision_macro": 0.9076508620689655,
+    "recall_macro": 0.8316239316239316,
+    "f1_macro": 0.8516387498662609,
+    "precision_pneumonia": 0.834051724137931,
+    "recall_pneumonia": 0.9923076923076923,
+    "f1_pneumonia": 0.9063231850117096,
+    "precision_normal": 0.98125,
+    "recall_normal": 0.6709401709401709,
+    "f1_normal": 0.7969543147208121,
+    "false_negatives": 3,
+    "false_positives": 77,
+    "true_negatives": 157,
+    "true_positives": 387,
+    "confusion_matrix": [
+      [
+        157,
+        77
+      ],
+      [
+        3,
+        387
+      ]
+    ]
+  },
+  "notes": [
+    "One-time final test evaluation using the locked model and threshold.",
+    "No retraining, no threshold change, no post-hoc model selection.",
+    "metrics_at_default_0_5_for_reference_only is not used for selection.",
+    "Results are model performance on the dataset, not clinical claims."
+  ],
+  "artifacts": {
+    "report": "experiments/final_evaluation/final_test_report.json",
+    "predictions": "experiments/final_evaluation/final_test_predictions.json",
+    "confusion_matrix_figure": "reports/figures/final_evaluation/final_test_confusion_matrix.png"
+  }
+}

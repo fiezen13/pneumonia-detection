@@ -1,0 +1,16 @@
+model=resnet18_frozen
+parameters total=11,177,538 trainable=1,026 frozen=11,176,512
+trainable tensors: ['fc.weight', 'fc.bias']
+device=cpu train=4432 val=784
+epoch 1/10 train_loss=0.3125 val_loss=0.1886 val_f1_macro=0.9024 val_recall_pneumonia=0.9228 lr=0.000976 *
+epoch 2/10 train_loss=0.2073 val_loss=0.1985 val_f1_macro=0.8992 val_recall_pneumonia=0.9108 lr=0.000905
+epoch 3/10 train_loss=0.1953 val_loss=0.1423 val_f1_macro=0.9212 val_recall_pneumonia=0.9726 lr=0.000794 *
+epoch 4/10 train_loss=0.1900 val_loss=0.1503 val_f1_macro=0.9244 val_recall_pneumonia=0.9880 lr=0.000655
+epoch 5/10 train_loss=0.1915 val_loss=0.1314 val_f1_macro=0.9311 val_recall_pneumonia=0.9674 lr=0.000500 *
+epoch 6/10 train_loss=0.1566 val_loss=0.1255 val_f1_macro=0.9313 val_recall_pneumonia=0.9657 lr=0.000345 *
+epoch 7/10 train_loss=0.1642 val_loss=0.1265 val_f1_macro=0.9364 val_recall_pneumonia=0.9674 lr=0.000206
+epoch 8/10 train_loss=0.1500 val_loss=0.1295 val_f1_macro=0.9371 val_recall_pneumonia=0.9623 lr=0.000095
+epoch 9/10 train_loss=0.1615 val_loss=0.1240 val_f1_macro=0.9331 val_recall_pneumonia=0.9657 lr=0.000024 *
+epoch 10/10 train_loss=0.1575 val_loss=0.1295 val_f1_macro=0.9357 val_recall_pneumonia=0.9588 lr=0.000000
+Wrote /home/fiores/Documents/hien-selflearning/pneumonia-detection/checkpoints/resnet18_frozen/resnet18_frozen_train_summary.json
+Training done. best_epoch=9 val_loss=0.1240

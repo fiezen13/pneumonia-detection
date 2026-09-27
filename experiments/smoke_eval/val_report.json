@@ -1,0 +1,52 @@
+{
+  "split": "val",
+  "n_samples": 16,
+  "checkpoint": "/home/fiores/Documents/hien-selflearning/pneumonia-detection/checkpoints/smoke_train/cnn_smoke_best.pt",
+  "device": "cpu",
+  "metrics": {
+    "accuracy": 0.5,
+    "precision_macro": 0.25,
+    "recall_macro": 0.5,
+    "f1_macro": 0.3333333333333333,
+    "precision_weighted": 0.25,
+    "recall_weighted": 0.5,
+    "f1_weighted": 0.3333333333333333,
+    "precision_normal": 0.0,
+    "recall_normal": 0.0,
+    "f1_normal": 0.0,
+    "support_normal": 8,
+    "precision_pneumonia": 0.5,
+    "recall_pneumonia": 1.0,
+    "f1_pneumonia": 0.6666666666666666,
+    "support_pneumonia": 8,
+    "false_negatives": 0,
+    "false_positives": 8,
+    "true_negatives": 0,
+    "true_positives": 8,
+    "confusion_matrix": [
+      [
+        0,
+        8
+      ],
+      [
+        0,
+        8
+      ]
+    ],
+    "roc_auc": 0.671875,
+    "pr_auc": 0.6807921245421246
+  },
+  "pneumonia_recall": 1.0,
+  "false_negatives": 0,
+  "false_positives": 8,
+  "confusion_matrix": [
+    [
+      0,
+      8
+    ],
+    [
+      0,
+      8
+    ]
+  ]
+}

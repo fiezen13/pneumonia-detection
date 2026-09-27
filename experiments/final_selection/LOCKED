@@ -1,0 +1,6 @@
+model=resnet18_finetune
+checkpoint=checkpoints/resnet18_finetune/resnet18_finetune_best.pt
+threshold=0.3
+split_used_for_selection=val
+test_accessed=true
+final_test_report=experiments/final_evaluation/final_test_report.json

@@ -1,0 +1,90 @@
+{
+  "run_name": "resnet18_finetune",
+  "checkpoint": "/home/fiores/Documents/hien-selflearning/pneumonia-detection/checkpoints/resnet18_finetune/resnet18_finetune_best.pt",
+  "split": "val",
+  "target_layer": "layer4",
+  "test_accessed": false,
+  "disclaimer": "Grad-CAM is an interpretability visualization only. It does not prove medical relevance of highlighted regions.",
+  "examples": {
+    "TP": {
+      "rel_path": "train/PNEUMONIA/person1003_bacteria_2934.jpeg",
+      "absolute_path": "/home/fiores/Documents/hien-selflearning/pneumonia-detection/data/chest_xray/train/PNEUMONIA/person1003_bacteria_2934.jpeg",
+      "true_label": "PNEUMONIA",
+      "predicted_label": "PNEUMONIA",
+      "prob_pneumonia": 1.0,
+      "pred_confidence": 1.0,
+      "activation_shape": [
+        512,
+        7,
+        7
+      ],
+      "heatmap_shape": [
+        7,
+        7
+      ],
+      "figure": "/home/fiores/Documents/hien-selflearning/pneumonia-detection/reports/figures/gradcam/resnet18_finetune_TP_gradcam.png",
+      "in_validation_split": true,
+      "in_test_split": false
+    },
+    "TN": {
+      "rel_path": "train/NORMAL/IM-0411-0001.jpeg",
+      "absolute_path": "/home/fiores/Documents/hien-selflearning/pneumonia-detection/data/chest_xray/train/NORMAL/IM-0411-0001.jpeg",
+      "true_label": "NORMAL",
+      "predicted_label": "NORMAL",
+      "prob_pneumonia": 2.2303624064079486e-05,
+      "pred_confidence": 0.999977696354108,
+      "activation_shape": [
+        512,
+        7,
+        7
+      ],
+      "heatmap_shape": [
+        7,
+        7
+      ],
+      "figure": "/home/fiores/Documents/hien-selflearning/pneumonia-detection/reports/figures/gradcam/resnet18_finetune_TN_gradcam.png",
+      "in_validation_split": true,
+      "in_test_split": false
+    },
+    "FP": {
+      "rel_path": "train/NORMAL/NORMAL2-IM-0554-0001.jpeg",
+      "absolute_path": "/home/fiores/Documents/hien-selflearning/pneumonia-detection/data/chest_xray/train/NORMAL/NORMAL2-IM-0554-0001.jpeg",
+      "true_label": "NORMAL",
+      "predicted_label": "PNEUMONIA",
+      "prob_pneumonia": 0.9419997930526733,
+      "pred_confidence": 0.9419997930526733,
+      "activation_shape": [
+        512,
+        7,
+        7
+      ],
+      "heatmap_shape": [
+        7,
+        7
+      ],
+      "figure": "/home/fiores/Documents/hien-selflearning/pneumonia-detection/reports/figures/gradcam/resnet18_finetune_FP_gradcam.png",
+      "in_validation_split": true,
+      "in_test_split": false
+    },
+    "FN": {
+      "rel_path": "train/PNEUMONIA/person730_virus_1351.jpeg",
+      "absolute_path": "/home/fiores/Documents/hien-selflearning/pneumonia-detection/data/chest_xray/train/PNEUMONIA/person730_virus_1351.jpeg",
+      "true_label": "PNEUMONIA",
+      "predicted_label": "NORMAL",
+      "prob_pneumonia": 0.0570937842130661,
+      "pred_confidence": 0.9429062008857727,
+      "activation_shape": [
+        512,
+        7,
+        7
+      ],
+      "heatmap_shape": [
+        7,
+        7
+      ],
+      "figure": "/home/fiores/Documents/hien-selflearning/pneumonia-detection/reports/figures/gradcam/resnet18_finetune_FN_gradcam.png",
+      "in_validation_split": true,
+      "in_test_split": false
+    }
+  }
+}

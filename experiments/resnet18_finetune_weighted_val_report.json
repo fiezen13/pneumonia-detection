@@ -1,0 +1,52 @@
+{
+  "split": "val",
+  "n_samples": 784,
+  "checkpoint": "checkpoints/resnet18_finetune_weighted/resnet18_finetune_weighted_best.pt",
+  "device": "cpu",
+  "metrics": {
+    "accuracy": 0.9808673469387755,
+    "precision_macro": 0.9714028958242349,
+    "recall_macro": 0.97898585972368,
+    "f1_macro": 0.9751125332520681,
+    "precision_weighted": 0.9811217676676609,
+    "recall_weighted": 0.9808673469387755,
+    "f1_weighted": 0.9809436707277239,
+    "precision_normal": 0.9514563106796117,
+    "recall_normal": 0.9751243781094527,
+    "f1_normal": 0.9631449631449631,
+    "support_normal": 201,
+    "precision_pneumonia": 0.9913494809688581,
+    "recall_pneumonia": 0.9828473413379074,
+    "f1_pneumonia": 0.9870801033591732,
+    "support_pneumonia": 583,
+    "false_negatives": 10,
+    "false_positives": 5,
+    "true_negatives": 196,
+    "true_positives": 573,
+    "confusion_matrix": [
+      [
+        196,
+        5
+      ],
+      [
+        10,
+        573
+      ]
+    ],
+    "roc_auc": 0.9977983154553134,
+    "pr_auc": 0.9992427891709167
+  },
+  "pneumonia_recall": 0.9828473413379074,
+  "false_negatives": 10,
+  "false_positives": 5,
+  "confusion_matrix": [
+    [
+      196,
+      5
+    ],
+    [
+      10,
+      573
+    ]
+  ]
+}

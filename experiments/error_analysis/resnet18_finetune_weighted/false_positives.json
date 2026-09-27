@@ -1,0 +1,52 @@
+[
+  {
+    "rel_path": "train/NORMAL/NORMAL2-IM-0554-0001.jpeg",
+    "true_label": "NORMAL",
+    "true_index": 0,
+    "predicted_label": "PNEUMONIA",
+    "predicted_index": 1,
+    "prob_pneumonia": 0.9446911215782166,
+    "pred_confidence": 0.9446911215782166,
+    "error_type": "FP"
+  },
+  {
+    "rel_path": "train/NORMAL/NORMAL2-IM-0611-0001.jpeg",
+    "true_label": "NORMAL",
+    "true_index": 0,
+    "predicted_label": "PNEUMONIA",
+    "predicted_index": 1,
+    "prob_pneumonia": 0.8898581266403198,
+    "pred_confidence": 0.8898581266403198,
+    "error_type": "FP"
+  },
+  {
+    "rel_path": "train/NORMAL/NORMAL2-IM-1376-0001.jpeg",
+    "true_label": "NORMAL",
+    "true_index": 0,
+    "predicted_label": "PNEUMONIA",
+    "predicted_index": 1,
+    "prob_pneumonia": 0.8435987830162048,
+    "pred_confidence": 0.8435987830162048,
+    "error_type": "FP"
+  },
+  {
+    "rel_path": "train/NORMAL/NORMAL2-IM-1048-0001.jpeg",
+    "true_label": "NORMAL",
+    "true_index": 0,
+    "predicted_label": "PNEUMONIA",
+    "predicted_index": 1,
+    "prob_pneumonia": 0.8242844939231873,
+    "pred_confidence": 0.8242844939231873,
+    "error_type": "FP"
+  },
+  {
+    "rel_path": "train/NORMAL/NORMAL2-IM-0531-0001.jpeg",
+    "true_label": "NORMAL",
+    "true_index": 0,
+    "predicted_label": "PNEUMONIA",
+    "predicted_index": 1,
+    "prob_pneumonia": 0.642085611820221,
+    "pred_confidence": 0.642085611820221,
+    "error_type": "FP"
+  }
+]

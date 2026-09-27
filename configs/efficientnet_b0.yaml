@@ -1,0 +1,22 @@
+# Experiment D — EfficientNet-B0 ImageNet pretrained, partial fine-tuning.
+# Comparable to best ResNet18 setup: late blocks + classifier trainable.
+# Trainable: features.7, features.8, classifier. Early features.0–6 frozen.
+# Differential LRs match ResNet18 finetune (head 5e-4, backbone 1e-4).
+
+model: efficientnet_b0
+seed: 42
+image_size: 224
+batch_size: 16
+num_workers: 2
+epochs: 10
+learning_rate: 0.0005
+backbone_learning_rate: 0.0001
+weight_decay: 0.0001
+scheduler: cosine
+early_stopping_patience: 3
+monitor_metric: val_loss
+maximize_monitor: false
+run_name: efficientnet_b0
+checkpoint_dir: checkpoints/efficientnet_b0
+data_dir: data/chest_xray
+split_file: experiments/data_split.json

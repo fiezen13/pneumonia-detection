@@ -1,0 +1,21 @@
+# Experiment C — ResNet18 partial fine-tuning: layer4 + fc trainable.
+# Early blocks (conv1, bn1, layer1–3) stay frozen.
+# Differential LRs: classifier > backbone; both lower than Phase 7 head-only LR (1e-3).
+
+model: resnet18_finetune
+seed: 42
+image_size: 224
+batch_size: 16
+num_workers: 2
+epochs: 10
+learning_rate: 0.0005
+backbone_learning_rate: 0.0001
+weight_decay: 0.0001
+scheduler: cosine
+early_stopping_patience: 3
+monitor_metric: val_loss
+maximize_monitor: false
+run_name: resnet18_finetune
+checkpoint_dir: checkpoints/resnet18_finetune
+data_dir: data/chest_xray
+split_file: experiments/data_split.json

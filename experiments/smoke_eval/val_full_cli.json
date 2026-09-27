@@ -1,0 +1,52 @@
+{
+  "split": "val",
+  "n_samples": 784,
+  "checkpoint": "checkpoints/smoke_train/cnn_smoke_best.pt",
+  "device": "cpu",
+  "metrics": {
+    "accuracy": 0.7436224489795918,
+    "precision_macro": 0.3718112244897959,
+    "recall_macro": 0.5,
+    "f1_macro": 0.4264813460131675,
+    "precision_weighted": 0.5529743466264057,
+    "recall_weighted": 0.7436224489795918,
+    "f1_weighted": 0.6342822059328487,
+    "precision_normal": 0.0,
+    "recall_normal": 0.0,
+    "f1_normal": 0.0,
+    "support_normal": 201,
+    "precision_pneumonia": 0.7436224489795918,
+    "recall_pneumonia": 1.0,
+    "f1_pneumonia": 0.852962692026335,
+    "support_pneumonia": 583,
+    "false_negatives": 0,
+    "false_positives": 201,
+    "true_negatives": 0,
+    "true_positives": 583,
+    "confusion_matrix": [
+      [
+        0,
+        201
+      ],
+      [
+        0,
+        583
+      ]
+    ],
+    "roc_auc": 0.7240896717100603,
+    "pr_auc": 0.8786571282834975
+  },
+  "pneumonia_recall": 1.0,
+  "false_negatives": 0,
+  "false_positives": 201,
+  "confusion_matrix": [
+    [
+      0,
+      201
+    ],
+    [
+      0,
+      583
+    ]
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "locked",
+  "split_used_for_selection": "val",
+  "test_accessed": true,
+  "final_model": {
+    "run_name": "resnet18_finetune",
+    "architecture": "resnet18",
+    "trainable_scope": "layer4_fc",
+    "class_weighted_loss": false,
+    "checkpoint": "/home/fiores/Documents/hien-selflearning/pneumonia-detection/checkpoints/resnet18_finetune/resnet18_finetune_best.pt",
+    "checkpoint_relative": "checkpoints/resnet18_finetune/resnet18_finetune_best.pt"
+  },
+  "final_threshold": {
+    "probability_target": "PNEUMONIA",
+    "value": 0.3,
+    "decision_rule": "Predict PNEUMONIA if P(PNEUMONIA) >= threshold, else NORMAL"
+  },
+  "selection": {
+    "metric": "validation f1_pneumonia (at validation-selected threshold)",
+    "rule": "Among ResNet18 fine-tune candidates with validation-selected thresholds, maximize validation f1_pneumonia; tie-break: higher recall_pneumonia, then lower threshold, then fewer FP. Not clinical; validation only.",
+    "source_artifact": "experiments/threshold_analysis/comparison_summary.json",
+    "ranked_candidates": [
+      {
+        "run_name": "resnet18_finetune",
+        "threshold": 0.3,
+        "f1_pneumonia": 0.9914236706689536,
+        "recall_pneumonia": 0.9914236706689536,
+        "false_negatives": 5,
+        "false_positives": 5
+      },
+      {
+        "run_name": "resnet18_finetune_weighted",
+        "threshold": 0.2,
+        "f1_pneumonia": 0.9880341880341881,
+        "recall_pneumonia": 0.9914236706689536,
+        "false_negatives": 5,
+        "false_positives": 9
+      }
+    ],
+    "selected_validation_metrics": {
+      "accuracy": 0.9872448979591837,
+      "precision_pneumonia": 0.9914236706689536,
+      "recall_pneumonia": 0.9914236706689536,
+      "f1_pneumonia": 0.9914236706689536,
+      "false_negatives": 5,
+      "false_positives": 5,
+      "confusion_matrix": [
+        [
+          196,
+          5
+        ],
+        [
+          5,
+          578
+        ]
+      ]
+    },
+    "delta_vs_default_0_5": {
+      "threshold_default": 0.5,
+      "threshold_selected": 0.3,
+      "fn_at_0_5": 15,
+      "fp_at_0_5": 3,
+      "fn_at_selected": 5,
+      "fp_at_selected": 5,
+      "fn_delta": -10,
+      "fp_delta": 2,
+      "recall_pneumonia_at_0_5": 0.9742710120068611,
+      "recall_pneumonia_at_selected": 0.9914236706689536,
+      "f1_pneumonia_at_0_5": 0.9844020797227037,
+      "f1_pneumonia_at_selected": 0.9914236706689536
+    }
+  },
+  "notes": [
+    "Locked from existing validation artifacts only; no retraining.",
+    "Previous experiment artifacts were not modified.",
+    "Test set must remain unused until an explicit final test evaluation.",
+    "Threshold is a validation operating point, not a clinical optimum."
+  ],
+  "final_test_evaluation": {
+    "accessed_at_utc": "2026-09-26T08:16:43.068105+00:00",
+    "report": "experiments/final_evaluation/final_test_report.json",
+    "threshold_used": 0.3,
+    "model_used": "resnet18_finetune",
+    "n_test": 624
+  }
+}

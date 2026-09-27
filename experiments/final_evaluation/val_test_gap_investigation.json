@@ -1,0 +1,504 @@
+{
+  "investigation": "val_vs_test_gap_at_locked_threshold",
+  "locked_model": "resnet18_finetune",
+  "locked_threshold": 0.3,
+  "model_or_threshold_changed": false,
+  "counts": {
+    "validation": {
+      "n": 784,
+      "NORMAL": 201,
+      "PNEUMONIA": 583,
+      "expected": {
+        "n": 784,
+        "NORMAL": 201,
+        "PNEUMONIA": 583
+      },
+      "matches_expected": true
+    },
+    "test": {
+      "n": 624,
+      "NORMAL": 234,
+      "PNEUMONIA": 390,
+      "expected": {
+        "n": 624,
+        "NORMAL": 234,
+        "PNEUMONIA": 390
+      },
+      "matches_expected": true
+    },
+    "class_prior_pneumonia": {
+      "validation": 0.7436224489795918,
+      "test": 0.625
+    }
+  },
+  "metrics_at_locked_threshold": {
+    "validation": {
+      "accuracy": 0.9872448979591837,
+      "recall_pneumonia": 0.9914236706689536,
+      "precision_pneumonia": 0.9914236706689536,
+      "f1_pneumonia": 0.9914236706689536,
+      "false_negatives": 5,
+      "false_positives": 5,
+      "confusion_matrix": [
+        [
+          196,
+          5
+        ],
+        [
+          5,
+          578
+        ]
+      ]
+    },
+    "test": {
+      "accuracy": 0.8509615384615384,
+      "recall_pneumonia": 0.9923076923076923,
+      "precision_pneumonia": 0.8113207547169812,
+      "f1_pneumonia": 0.8927335640138409,
+      "false_negatives": 3,
+      "false_positives": 90,
+      "confusion_matrix": [
+        [
+          144,
+          90
+        ],
+        [
+          3,
+          387
+        ]
+      ]
+    }
+  },
+  "score_distributions": {
+    "validation": {
+      "NORMAL": {
+        "count": 201,
+        "mean": 0.0349744186112015,
+        "std": 0.12257083619562195,
+        "min": 2.230364589195233e-05,
+        "max": 0.9419997930526733,
+        "q05": 0.00019269675249233842,
+        "q25": 0.0007298252312466502,
+        "q50": 0.0026862435042858124,
+        "q75": 0.009911756031215191,
+        "q95": 0.1947116106748581,
+        "frac_ge_0_30": 0.024875621890547265,
+        "frac_ge_0_50": 0.014925373134328358
+      },
+      "PNEUMONIA": {
+        "count": 583,
+        "mean": 0.9695834688343887,
+        "std": 0.11917801762896932,
+        "min": 0.057093799114227295,
+        "max": 1.0,
+        "q05": 0.8059127390384675,
+        "q25": 0.9987338781356812,
+        "q50": 0.9999828338623047,
+        "q75": 0.9999997615814209,
+        "q95": 1.0,
+        "frac_ge_0_30": 0.9914236706689536,
+        "frac_ge_0_50": 0.9742710120068611
+      }
+    },
+    "test": {
+      "NORMAL": {
+        "count": 234,
+        "mean": 0.3376255973683631,
+        "std": 0.37802780210649095,
+        "min": 5.180612060939893e-05,
+        "max": 1.0,
+        "q05": 0.0010125123080797493,
+        "q25": 0.01794994669035077,
+        "q50": 0.11797843500971794,
+        "q75": 0.7024083137512207,
+        "q95": 0.9984331905841828,
+        "frac_ge_0_30": 0.38461538461538464,
+        "frac_ge_0_50": 0.32905982905982906
+      },
+      "PNEUMONIA": {
+        "count": 390,
+        "mean": 0.9833590194296379,
+        "std": 0.08967274414740768,
+        "min": 0.05500898137688637,
+        "max": 1.0,
+        "q05": 0.9616709530353547,
+        "q25": 0.9995238482952118,
+        "q50": 0.9999920725822449,
+        "q75": 0.9999998807907104,
+        "q95": 1.0,
+        "frac_ge_0_30": 0.9923076923076923,
+        "frac_ge_0_50": 0.9923076923076923
+      }
+    }
+  },
+  "test_false_positive_analysis": {
+    "n_fp": 90,
+    "score_summary": {
+      "count": 90,
+      "mean": 0.7764565643337038,
+      "std": 0.22043222831188125,
+      "min": 0.3294893205165863,
+      "max": 1.0,
+      "q05": 0.3494835615158081,
+      "q25": 0.5870609879493713,
+      "q50": 0.8499271869659424,
+      "q75": 0.9873764514923096,
+      "q95": 0.9998320370912552,
+      "frac_ge_0_30": 1.0,
+      "frac_ge_0_50": 0.8555555555555555
+    },
+    "filename_prefix_counts": {
+      "IM-*": 16,
+      "NORMAL2-IM-*": 74
+    },
+    "unique_im_ids_in_fps": 85,
+    "repeated_im_ids_in_fps": {
+      "0019": 2,
+      "0102": 2,
+      "0173": 2,
+      "0246": 3
+    },
+    "normal_subgroup_stats": {
+      "IM-*": {
+        "n_normal": 69,
+        "n_fp": 16,
+        "fp_rate": 0.2318840579710145,
+        "score_summary": {
+          "count": 69,
+          "mean": 0.23323411396088795,
+          "std": 0.3499923278569142,
+          "min": 5.180612060939893e-05,
+          "max": 0.9999947547912598,
+          "q05": 0.00034270079922862353,
+          "q25": 0.005238699726760387,
+          "q50": 0.03020484372973442,
+          "q75": 0.2506696879863739,
+          "q95": 0.989334225654602,
+          "frac_ge_0_30": 0.2318840579710145,
+          "frac_ge_0_50": 0.2318840579710145
+        }
+      },
+      "NORMAL2-IM-*": {
+        "n_normal": 165,
+        "n_fp": 74,
+        "fp_rate": 0.4484848484848485,
+        "score_summary": {
+          "count": 165,
+          "mean": 0.3812802177023982,
+          "std": 0.380758948089537,
+          "min": 0.00017760063929017633,
+          "max": 1.0,
+          "q05": 0.0022657123394310475,
+          "q25": 0.03214111551642418,
+          "q50": 0.23999345302581787,
+          "q75": 0.7716192007064819,
+          "q95": 0.998818838596344,
+          "frac_ge_0_30": 0.4484848484848485,
+          "frac_ge_0_50": 0.3696969696969697
+        }
+      }
+    },
+    "top_confident_fps": [
+      {
+        "rel_path": "test/NORMAL/NORMAL2-IM-0256-0001.jpeg",
+        "prob_pneumonia": 1.0
+      },
+      {
+        "rel_path": "test/NORMAL/IM-0022-0001.jpeg",
+        "prob_pneumonia": 0.9999947547912598
+      },
+      {
+        "rel_path": "test/NORMAL/NORMAL2-IM-0237-0001.jpeg",
+        "prob_pneumonia": 0.9999940395355225
+      },
+      {
+        "rel_path": "test/NORMAL/NORMAL2-IM-0198-0001.jpeg",
+        "prob_pneumonia": 0.9999802112579346
+      },
+      {
+        "rel_path": "test/NORMAL/NORMAL2-IM-0233-0001.jpeg",
+        "prob_pneumonia": 0.9998983144760132
+      },
+      {
+        "rel_path": "test/NORMAL/NORMAL2-IM-0210-0001.jpeg",
+        "prob_pneumonia": 0.9997510313987732
+      },
+      {
+        "rel_path": "test/NORMAL/NORMAL2-IM-0246-0001.jpeg",
+        "prob_pneumonia": 0.999729573726654
+      },
+      {
+        "rel_path": "test/NORMAL/NORMAL2-IM-0232-0001.jpeg",
+        "prob_pneumonia": 0.999637246131897
+      },
+      {
+        "rel_path": "test/NORMAL/IM-0085-0001.jpeg",
+        "prob_pneumonia": 0.9994913339614868
+      },
+      {
+        "rel_path": "test/NORMAL/NORMAL2-IM-0252-0001.jpeg",
+        "prob_pneumonia": 0.9991716146469116
+      },
+      {
+        "rel_path": "test/NORMAL/IM-0073-0001.jpeg",
+        "prob_pneumonia": 0.9991538524627686
+      },
+      {
+        "rel_path": "test/NORMAL/NORMAL2-IM-0195-0001.jpeg",
+        "prob_pneumonia": 0.9989902377128601
+      },
+      {
+        "rel_path": "test/NORMAL/NORMAL2-IM-0349-0001.jpeg",
+        "prob_pneumonia": 0.9981332421302795
+      },
+      {
+        "rel_path": "test/NORMAL/NORMAL2-IM-0285-0001.jpeg",
+        "prob_pneumonia": 0.997177243232727
+      },
+      {
+        "rel_path": "test/NORMAL/NORMAL2-IM-0219-0001.jpeg",
+        "prob_pneumonia": 0.9969993829727173
+      }
+    ]
+  },
+  "pneumonia_filename_infection_type_counts": {
+    "validation": {
+      "bacteria": 384,
+      "virus": 199
+    },
+    "test": {
+      "bacteria": 242,
+      "virus": 148
+    }
+  },
+  "preprocessing_check": {
+    "eval_transform_identical_across_calls": true,
+    "eval_transform": "Compose(\n    Resize(size=(224, 224), interpolation=bilinear, max_size=None, antialias=True)\n    ToTensor()\n    Normalize(mean=(0.485, 0.456, 0.406), std=(0.229, 0.224, 0.225))\n)",
+    "train_transform_differs_from_eval": true,
+    "note": "Both validation and test evaluation use build_eval_transforms (Resize+ToTensor+Normalize only). Training augmentation is not applied at evaluation.",
+    "evidence": "code inspection of create_datasets / final_test_evaluation / error_analysis"
+  },
+  "filename_id_overlap": {
+    "counts": {
+      "train": {
+        "n_person_ids": 1522,
+        "n_normal_im_ids": 887
+      },
+      "val": {
+        "n_person_ids": 468,
+        "n_normal_im_ids": 190
+      },
+      "test": {
+        "n_person_ids": 202,
+        "n_normal_im_ids": 202
+      }
+    },
+    "person_id_overlap": {
+      "train_val": {
+        "n_overlap": 355,
+        "examples": [
+          "1",
+          "1003",
+          "1004",
+          "1008",
+          "1015",
+          "1022",
+          "1024",
+          "1026",
+          "1028",
+          "1031",
+          "1036",
+          "1059",
+          "1063",
+          "1069",
+          "1073",
+          "108",
+          "1081",
+          "1085",
+          "110",
+          "1100"
+        ]
+      },
+      "train_test": {
+        "n_overlap": 153,
+        "examples": [
+          "1",
+          "10",
+          "100",
+          "101",
+          "102",
+          "103",
+          "108",
+          "109",
+          "11",
+          "110",
+          "111",
+          "112",
+          "113",
+          "114",
+          "117",
+          "119",
+          "120",
+          "122",
+          "123",
+          "124"
+        ]
+      },
+      "val_test": {
+        "n_overlap": 62,
+        "examples": [
+          "1",
+          "104",
+          "108",
+          "110",
+          "118",
+          "124",
+          "139",
+          "140",
+          "141",
+          "145",
+          "151",
+          "154",
+          "161",
+          "1610",
+          "1615",
+          "1618",
+          "1625",
+          "1628",
+          "1634",
+          "1643"
+        ]
+      }
+    },
+    "normal_im_id_overlap": {
+      "train_val": {
+        "n_overlap": 77,
+        "examples": [
+          "0399",
+          "0408",
+          "0421",
+          "0424",
+          "0427",
+          "0428",
+          "0433",
+          "0441",
+          "0452",
+          "0456",
+          "0460",
+          "0464",
+          "0475",
+          "0487",
+          "0488",
+          "0489",
+          "0493",
+          "0496",
+          "0499",
+          "0501"
+        ]
+      },
+      "train_test": {
+        "n_overlap": 79,
+        "examples": [
+          "0117",
+          "0129",
+          "0131",
+          "0135",
+          "0141",
+          "0145",
+          "0195",
+          "0199",
+          "0201",
+          "0206",
+          "0207",
+          "0210",
+          "0213",
+          "0217",
+          "0219",
+          "0221",
+          "0229",
+          "0237",
+          "0238",
+          "0249"
+        ]
+      },
+      "val_test": {
+        "n_overlap": 15,
+        "examples": [
+          "0222",
+          "0241",
+          "0274",
+          "0278",
+          "0282",
+          "0285",
+          "0290",
+          "0292",
+          "0315",
+          "0317",
+          "0326",
+          "0332",
+          "0343",
+          "0349",
+          "0351"
+        ]
+      }
+    },
+    "limitation": "IDs parsed from filenames (personNNNN / IM-NNNN). These are proxies only; they are not confirmed unique patient IDs."
+  },
+  "exact_content_overlap": {
+    "n_files_hashed": 5840,
+    "n_unique_hashes": 5808,
+    "n_cross_split_duplicate_hashes": 0,
+    "cross_split_duplicates": [],
+    "val_test_shared_hashes": 0
+  },
+  "evidence": [
+    {
+      "finding": "At thr=0.30, validation NORMAL FP rate is much lower than test NORMAL FP rate (0.025 vs 0.385).",
+      "type": "evidence",
+      "support": "score_distribution summaries from saved model probabilities"
+    },
+    {
+      "finding": "True-PNEUMONIA scores are high on both splits (val mean=0.970, test mean=0.983); FN remain low (val FN=5, test FN=3).",
+      "type": "evidence",
+      "support": "score summaries + threshold metrics"
+    },
+    {
+      "finding": "Validation/test evaluation transforms are the same deterministic eval pipeline (no train-time augmentation).",
+      "type": "evidence",
+      "support": "preprocessing code inspection"
+    },
+    {
+      "finding": "Exact SHA-256 cross-split duplicates: 0 (val-test shared hashes: 0).",
+      "type": "evidence",
+      "support": "content hashing of split file lists"
+    },
+    {
+      "finding": "Filename-derived person-ID overlap train\u2229test / val\u2229test is 153 / 62.",
+      "type": "evidence_with_limitation",
+      "support": "regex parse of personNNNN from pneumonia filenames",
+      "limitation": "IDs parsed from filenames (personNNNN / IM-NNNN). These are proxies only; they are not confirmed unique patient IDs."
+    }
+  ],
+  "speculation": [
+    {
+      "hypothesis": "The locked low threshold (0.30), chosen to maximize validation pneumonia F1, may be poorly calibrated to the test NORMAL score distribution, inflating test FP.",
+      "type": "speculation",
+      "note": "Threshold remains locked; this does not justify changing it."
+    },
+    {
+      "hypothesis": "Validation NORMAL images (drawn from original train) may be easier/more separable for this model than original test NORMAL images.",
+      "type": "speculation",
+      "note": "Score shifts are observed; underlying acquisition/population differences are not directly measured here."
+    }
+  ],
+  "limitations": [
+    "No DICOM metadata/hospital site/age/sex available in this repo.",
+    "Filename IDs are proxies only.",
+    "Investigation uses already-saved probabilities; no new model fitting.",
+    "Does not prove causal distribution shift."
+  ],
+  "artifacts": {
+    "score_distribution_figure": "reports/figures/final_evaluation/val_test_score_distributions.png",
+    "test_fp_score_figure": "reports/figures/final_evaluation/test_false_positive_scores.png"
+  }
+}

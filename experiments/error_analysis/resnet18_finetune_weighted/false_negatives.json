@@ -1,0 +1,102 @@
+[
+  {
+    "rel_path": "train/PNEUMONIA/person1181_bacteria_3129.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.013404825702309608,
+    "pred_confidence": 0.9865951742976904,
+    "error_type": "FN"
+  },
+  {
+    "rel_path": "train/PNEUMONIA/person730_virus_1351.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.013495342805981636,
+    "pred_confidence": 0.9865046571940184,
+    "error_type": "FN"
+  },
+  {
+    "rel_path": "train/PNEUMONIA/person463_virus_953.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.02238035760819912,
+    "pred_confidence": 0.9776196423918009,
+    "error_type": "FN"
+  },
+  {
+    "rel_path": "train/PNEUMONIA/person1287_virus_2210.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.04376883804798126,
+    "pred_confidence": 0.9562311619520187,
+    "error_type": "FN"
+  },
+  {
+    "rel_path": "train/PNEUMONIA/person1362_virus_2345.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.10383916646242142,
+    "pred_confidence": 0.8961608335375786,
+    "error_type": "FN"
+  },
+  {
+    "rel_path": "train/PNEUMONIA/person104_virus_191.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.21932242810726166,
+    "pred_confidence": 0.7806775718927383,
+    "error_type": "FN"
+  },
+  {
+    "rel_path": "train/PNEUMONIA/person414_bacteria_1835.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.2578945755958557,
+    "pred_confidence": 0.7421054244041443,
+    "error_type": "FN"
+  },
+  {
+    "rel_path": "train/PNEUMONIA/person279_virus_576.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.32639721035957336,
+    "pred_confidence": 0.6736027896404266,
+    "error_type": "FN"
+  },
+  {
+    "rel_path": "train/PNEUMONIA/person1355_virus_2336.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.33880600333213806,
+    "pred_confidence": 0.6611939966678619,
+    "error_type": "FN"
+  },
+  {
+    "rel_path": "train/PNEUMONIA/person1509_bacteria_3951.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.42747989296913147,
+    "pred_confidence": 0.5725201070308685,
+    "error_type": "FN"
+  }
+]

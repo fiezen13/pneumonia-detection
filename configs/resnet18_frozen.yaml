@@ -1,0 +1,19 @@
+# Experiment B — ResNet18 ImageNet pretrained, frozen backbone, trainable fc head.
+# CPU-first defaults.
+
+model: resnet18_frozen
+seed: 42
+image_size: 224
+batch_size: 16
+num_workers: 2
+epochs: 10
+learning_rate: 0.001
+weight_decay: 0.0001
+scheduler: cosine
+early_stopping_patience: 3
+monitor_metric: val_loss
+maximize_monitor: false
+run_name: resnet18_frozen
+checkpoint_dir: checkpoints/resnet18_frozen
+data_dir: data/chest_xray
+split_file: experiments/data_split.json

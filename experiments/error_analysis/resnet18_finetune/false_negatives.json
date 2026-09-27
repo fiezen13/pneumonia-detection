@@ -1,0 +1,152 @@
+[
+  {
+    "rel_path": "train/PNEUMONIA/person730_virus_1351.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.057093799114227295,
+    "pred_confidence": 0.9429062008857727,
+    "error_type": "FN"
+  },
+  {
+    "rel_path": "train/PNEUMONIA/person1181_bacteria_3129.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.0943392738699913,
+    "pred_confidence": 0.9056607261300087,
+    "error_type": "FN"
+  },
+  {
+    "rel_path": "train/PNEUMONIA/person279_virus_576.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.1957789808511734,
+    "pred_confidence": 0.8042210191488266,
+    "error_type": "FN"
+  },
+  {
+    "rel_path": "train/PNEUMONIA/person1227_virus_2078.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.20502254366874695,
+    "pred_confidence": 0.794977456331253,
+    "error_type": "FN"
+  },
+  {
+    "rel_path": "train/PNEUMONIA/person1287_virus_2210.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.25040122866630554,
+    "pred_confidence": 0.7495987713336945,
+    "error_type": "FN"
+  },
+  {
+    "rel_path": "train/PNEUMONIA/person463_virus_953.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.315361350774765,
+    "pred_confidence": 0.684638649225235,
+    "error_type": "FN"
+  },
+  {
+    "rel_path": "train/PNEUMONIA/person81_virus_153.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.324560284614563,
+    "pred_confidence": 0.675439715385437,
+    "error_type": "FN"
+  },
+  {
+    "rel_path": "train/PNEUMONIA/person1230_virus_2081.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.36008089780807495,
+    "pred_confidence": 0.639919102191925,
+    "error_type": "FN"
+  },
+  {
+    "rel_path": "train/PNEUMONIA/person1509_bacteria_3951.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.3684750199317932,
+    "pred_confidence": 0.6315249800682068,
+    "error_type": "FN"
+  },
+  {
+    "rel_path": "train/PNEUMONIA/person1355_virus_2336.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.43288931250572205,
+    "pred_confidence": 0.567110687494278,
+    "error_type": "FN"
+  },
+  {
+    "rel_path": "train/PNEUMONIA/person414_bacteria_1835.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.46807989478111267,
+    "pred_confidence": 0.5319201052188873,
+    "error_type": "FN"
+  },
+  {
+    "rel_path": "train/PNEUMONIA/person1158_bacteria_3103.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.47993695735931396,
+    "pred_confidence": 0.520063042640686,
+    "error_type": "FN"
+  },
+  {
+    "rel_path": "train/PNEUMONIA/person295_virus_612.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.48263394832611084,
+    "pred_confidence": 0.5173660516738892,
+    "error_type": "FN"
+  },
+  {
+    "rel_path": "train/PNEUMONIA/person40_bacteria_205.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.4842441976070404,
+    "pred_confidence": 0.5157558023929596,
+    "error_type": "FN"
+  },
+  {
+    "rel_path": "train/PNEUMONIA/person1453_bacteria_3770.jpeg",
+    "true_label": "PNEUMONIA",
+    "true_index": 1,
+    "predicted_label": "NORMAL",
+    "predicted_index": 0,
+    "prob_pneumonia": 0.49086645245552063,
+    "pred_confidence": 0.5091335475444794,
+    "error_type": "FN"
+  }
+]

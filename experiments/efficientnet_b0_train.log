@@ -1,0 +1,36 @@
+model=efficientnet_b0
+parameters total=4,010,110 trainable=1,131,954 frozen=2,878,156
+trainable tensors (18):
+  - features.7.0.block.0.0.weight
+  - features.7.0.block.0.1.weight
+  - features.7.0.block.0.1.bias
+  - features.7.0.block.1.0.weight
+  - features.7.0.block.1.1.weight
+  - features.7.0.block.1.1.bias
+  - features.7.0.block.2.fc1.weight
+  - features.7.0.block.2.fc1.bias
+  - features.7.0.block.2.fc2.weight
+  - features.7.0.block.2.fc2.bias
+  - features.7.0.block.3.0.weight
+  - features.7.0.block.3.1.weight
+  - features.7.0.block.3.1.bias
+  - features.8.0.weight
+  - features.8.1.weight
+  - features.8.1.bias
+  - classifier.1.weight
+  - classifier.1.bias
+Verified trainable scope: features.7.* + features.8.* + classifier.* only
+optimizer LR head=0.0005 backbone=0.0001
+device=cpu train=4432 val=784
+epoch 1/10 train_loss=0.2078 val_loss=0.1427 val_f1_macro=0.9225 val_recall_pneumonia=0.9262 lr=0.000098 *
+epoch 2/10 train_loss=0.1281 val_loss=0.1277 val_f1_macro=0.9303 val_recall_pneumonia=0.9314 lr=0.000090 *
+epoch 3/10 train_loss=0.1117 val_loss=0.1411 val_f1_macro=0.9275 val_recall_pneumonia=0.9262 lr=0.000079
+epoch 4/10 train_loss=0.1076 val_loss=0.1192 val_f1_macro=0.9391 val_recall_pneumonia=0.9434 lr=0.000065 *
+epoch 5/10 train_loss=0.1071 val_loss=0.1278 val_f1_macro=0.9351 val_recall_pneumonia=0.9331 lr=0.000050
+epoch 6/10 train_loss=0.0886 val_loss=0.0878 val_f1_macro=0.9528 val_recall_pneumonia=0.9605 lr=0.000035 *
+epoch 7/10 train_loss=0.0823 val_loss=0.0787 val_f1_macro=0.9575 val_recall_pneumonia=0.9657 lr=0.000021 *
+epoch 8/10 train_loss=0.0817 val_loss=0.0981 val_f1_macro=0.9438 val_recall_pneumonia=0.9468 lr=0.000010
+epoch 9/10 train_loss=0.0749 val_loss=0.0959 val_f1_macro=0.9469 val_recall_pneumonia=0.9503 lr=0.000002
+epoch 10/10 train_loss=0.0769 val_loss=0.0779 val_f1_macro=0.9593 val_recall_pneumonia=0.9640 lr=0.000000 *
+Wrote /home/fiores/Documents/hien-selflearning/pneumonia-detection/checkpoints/efficientnet_b0/efficientnet_b0_train_summary.json
+Training done. best_epoch=10 val_loss=0.0779

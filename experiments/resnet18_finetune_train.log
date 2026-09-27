@@ -1,0 +1,33 @@
+model=resnet18_finetune
+parameters total=11,177,538 trainable=8,394,754 frozen=2,782,784
+trainable tensors (17):
+  - layer4.0.conv1.weight
+  - layer4.0.bn1.weight
+  - layer4.0.bn1.bias
+  - layer4.0.conv2.weight
+  - layer4.0.bn2.weight
+  - layer4.0.bn2.bias
+  - layer4.0.downsample.0.weight
+  - layer4.0.downsample.1.weight
+  - layer4.0.downsample.1.bias
+  - layer4.1.conv1.weight
+  - layer4.1.bn1.weight
+  - layer4.1.bn1.bias
+  - layer4.1.conv2.weight
+  - layer4.1.bn2.weight
+  - layer4.1.bn2.bias
+  - fc.weight
+  - fc.bias
+Verified trainable scope: layer4.* + fc.* only
+optimizer LR head=0.0005 backbone=0.0001
+device=cpu train=4432 val=784
+epoch 1/10 train_loss=0.1293 val_loss=0.0753 val_f1_macro=0.9606 val_recall_pneumonia=0.9691 lr=0.000098 *
+epoch 2/10 train_loss=0.0794 val_loss=0.1069 val_f1_macro=0.9518 val_recall_pneumonia=0.9520 lr=0.000090
+epoch 3/10 train_loss=0.0665 val_loss=0.0750 val_f1_macro=0.9529 val_recall_pneumonia=0.9588 lr=0.000079 *
+epoch 4/10 train_loss=0.0636 val_loss=0.0506 val_f1_macro=0.9705 val_recall_pneumonia=0.9743 lr=0.000065 *
+epoch 5/10 train_loss=0.0465 val_loss=0.1249 val_f1_macro=0.9457 val_recall_pneumonia=0.9451 lr=0.000050
+epoch 6/10 train_loss=0.0375 val_loss=0.0539 val_f1_macro=0.9701 val_recall_pneumonia=0.9811 lr=0.000035
+epoch 7/10 train_loss=0.0348 val_loss=0.0525 val_f1_macro=0.9717 val_recall_pneumonia=0.9828 lr=0.000021
+Early stopping at epoch 7 (best epoch 4, val_loss=0.0506)
+Wrote /home/fiores/Documents/hien-selflearning/pneumonia-detection/checkpoints/resnet18_finetune/resnet18_finetune_train_summary.json
+Training done. best_epoch=4 val_loss=0.0506
